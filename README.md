@@ -5,6 +5,9 @@ Para utilizar o projeto completamente funcional é necessário acessar este [lin
 
 - Ao acessar o drive, você pode criar um atalho da pasta ou baixá-la e depois adicionar ao seu drive. *Recomendações: Caso você não queira fazer alterações no código e apenas rodá-lo, salve o atalho dentro da pasta do seu drive que se chama "Meu Drive"*
 - Após adicionar a pasta ao Google Drive, basta abrir o [Projeto](https://colab.research.google.com/drive/1JaIIOzBqbL56yuXaweiu9eppBzLIXOhF?usp=sharing) e rodar o código seguindo as orientações.
+- Para acessar os materiais usados na aula:
+  [Versão PREENCHIDA](https://colab.research.google.com/drive/1JaIIOzBqbL56yuXaweiu9eppBzLIXOhF?usp=sharing)
+  [Versão VAZIA](https://colab.research.google.com/drive/1eOozjZp-lzEudqqyXsUgtQW_LzD0JfcO?usp=sharing)
 
 # Recursos utilizados no projeto:
 Recursos utilizados no projeto que não foram desenvolvidos pela autora.  
