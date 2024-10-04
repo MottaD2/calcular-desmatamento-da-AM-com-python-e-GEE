@@ -82,59 +82,6 @@ Quando confirmar, você será direcionado para o Code Editor do Google Earth Eng
 
 ![Passo 9](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/9.png)
 
-**Passo 10:**  
-
-Ao retornar para o google colab e rodar a célula de autorização da API, clique no link disponível para gerar o seu token
-
-![Passo 10](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/10.png)
-
-**Passo 11:**  
-
-Você será direcionado para o Notebook Authenticator, é esperado que em Cloud Project apareça o ID do projeto que foi Criado anteriormente, caso isso não aconteça você pode clicar em “Choose Project”
-
-![Passo 11](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/11.png)
-
-**Passo 12:**  
-
-Com a janela de Choose Project aberta você pode criar um novo projeto ou selecionar o projeto já existente em Cloud Project. Caso opte por criar um novo projeto, basta escolher um novo ID e clicar em “Select”.
-
-![Passo 12](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/12.png)
-
-**Passo 13:**  
-
-Caso queira selecionar o seu projeto criado anteriormente, basta clicar em “Select an existing Cloud Project”, selecionar o nome do projeto existente e clicar em “Select”.
-
-![Passo 13](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/13.png)
-
-**Passo 14:**  
-
-Realizadas as etapas de escolher o projeto, a API solicitará novamente que logue a conta do google. (Utilize a mesma na qual você criou conta no Google Earth Engine)
-
-![Passo 14](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/14.png)
-
-**Passo 15:**  
-
-Caso apareça esta janela, basta clicar em “Continuar”
-
-![Passo 15](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/15.png)
-
-**Passo 16:**  
-
-Após continuar, clique em “Selecionar tudo” e depois “Continuar”
-
-![Passo 16](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/16.png)
-
-**Passo 17:**  
-
-Copie o código de autorização gerado e retorne para o ambiente do Google Colab.
-
-![Passo 17](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/17.png)
-
-**Passo 18:**  
-
-Agora cole o código no campo indicado e aperte enter. Feito isso, a API será autorizada.
-
-![Passo 18](https://github.com/MottaD2/TCC-Daniella_Motta/blob/e9c0025aff82e5bdc16f21034ffee3a2c37a0c56/_images_/18.png)
 
 # Dúvidas, sugestões e problemas:  
 Basta me contatar via email: mottadaniella@id.uff.br
